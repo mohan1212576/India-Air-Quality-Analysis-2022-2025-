@@ -2,7 +2,7 @@
 _Power BI analytics revealing pollution patterns, health impacts, and market opportunities_
 
 🔗 **Live Dashboard**: [View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiNDY4ZmU2OTUtODNmNS00MmJlLWE2NTktMGM5YjRhMzU2MTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-📽️ **Video Walkthrough**: [YouTube Explanation](www.youtube.com/embed/XnIBGQgVYyE?si=6apA6aWefKwXxxLb)
+📽️ **Video Walkthrough**: [YouTube Explanation](https://www.youtube.com/watch?v=XnIBGQgVYyE)
 
 ## 📊 Key Visualizations
 ### 1. Air Quality Monitoring
