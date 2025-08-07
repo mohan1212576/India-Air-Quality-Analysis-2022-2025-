@@ -1,8 +1,8 @@
 # 🌫️ India Air Quality Dashboard (2022-2025)
 _Power BI analytics revealing pollution patterns, health impacts, and market opportunities_
 
-🔗 **Live Dashboard**: [View Interactive Report](https://lnkd.in/d7vJ-eQG)  
-📽️ **Video Walkthrough**: [YouTube Explanation](https://lnkd.in/d9ZMbXfN)
+🔗 **Live Dashboard**: [View Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiNDY4ZmU2OTUtODNmNS00MmJlLWE2NTktMGM5YjRhMzU2MTY3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+📽️ **Video Walkthrough**: [YouTube Explanation](www.youtube.com/embed/XnIBGQgVYyE?si=6apA6aWefKwXxxLb)
 
 ## 📊 Key Visualizations
 ### 1. Air Quality Monitoring
@@ -22,7 +22,7 @@ _Power BI analytics revealing pollution patterns, health impacts, and market opp
 ## 🛠️ Tech Stack
 - **ETL**: Power Query  
 - **Visualization**: Power BI  
-- **Analysis**: Python ([Jupyter Notebook](/notebooks/aqi_analysis.ipynb))  
+- **Analysis**: Power BI
 - **Data Sources**: CPCB, WHO, OpenAQ  
 
 ## 🚀 Quick Start
