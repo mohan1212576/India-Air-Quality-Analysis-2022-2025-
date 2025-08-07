@@ -5,8 +5,8 @@ _Power BI analytics revealing pollution patterns, health impacts, and market opp
 📽️ **Video Walkthrough**: [YouTube Explanation](https://lnkd.in/d9ZMbXfN)
 
 ## 📊 Key Visualizations
-### 1. Pollution Hotspots
-[![Top Cities](https://i.imgur.com/your-hotspot-screenshot.png)](https://i.imgur.com/your-hotspot-screenshot.png)  
+### 1. Air Quality Monitoring
+[![Top Cities](https://github.com/mohan1212576/India-Air-Quality-Analysis-2022-2025-/blob/main/Screenshot%201.png)  
 *Delhi-NCR averages 312 AQI (Hazardous)*
 
 ### 2. EV Impact Analysis
