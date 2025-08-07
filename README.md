@@ -12,11 +12,11 @@ _Power BI analytics revealing pollution patterns, health impacts, and market opp
 [![Top Cities](https://github.com/mohan1212576/India-Air-Quality-Analysis-2022-2025-/blob/main/Screenshot%202.png)  
 
 ### 3. EV Impact Analysis
-[![EV Correlation](https://github.com/mohan1212576/India-Air-Quality-Analysis-2022-2025-/blob/main/Screenshot%203.png)  
+[EV Correlation](https://github.com/mohan1212576/India-Air-Quality-Analysis-2022-2025-/blob/main/Screenshot%203.png)  
 *States with >20% EV adoption show 12% better AQI*
 
 ### 4. Purifier Market Share
-[![Market Breakdown](https://i.imgur.com/your-market-screenshot.png)](https://github.com/mohan1212576/India-Air-Quality-Analysis-2022-2025-/blob/main/Screenshot%204.png)  
+[Market Breakdown](https://github.com/mohan1212576/India-Air-Quality-Analysis-2022-2025-/blob/main/Screenshot%204.png)  
 *75% sales concentrated in 5 states*
 
 ## 🛠️ Tech Stack
